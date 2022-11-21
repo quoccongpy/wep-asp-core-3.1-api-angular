@@ -1,0 +1,16 @@
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.csproj.AssemblyReference.cache
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.AssemblyInfoInputs.cache
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.AssemblyInfo.cs
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.csproj.CoreCompileInputs.cache
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\bin\Debug\netcoreapp3.1\ShopAngular.Infrastructure.deps.json
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\bin\Debug\netcoreapp3.1\ShopAngular.Infrastructure.runtimeconfig.json
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\bin\Debug\netcoreapp3.1\ShopAngular.Infrastructure.runtimeconfig.dev.json
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\bin\Debug\netcoreapp3.1\ShopAngular.Infrastructure.dll
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\bin\Debug\netcoreapp3.1\ShopAngular.Infrastructure.pdb
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\bin\Debug\netcoreapp3.1\ShopAngular.Model.dll
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\bin\Debug\netcoreapp3.1\ShopAngular.Model.pdb
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.csproj.CopyComplete
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.dll
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.pdb
+D:\web\Web Asp\ShopAngular\ShopAngular.Infrastructure\obj\Debug\netcoreapp3.1\ShopAngular.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\bin\Debug\netcoreapp3.1\ShopAngular.Model.deps.json
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\bin\Debug\netcoreapp3.1\ShopAngular.Model.dll
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\bin\Debug\netcoreapp3.1\ShopAngular.Model.pdb
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\obj\Debug\netcoreapp3.1\ShopAngular.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\obj\Debug\netcoreapp3.1\ShopAngular.Model.AssemblyInfoInputs.cache
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\obj\Debug\netcoreapp3.1\ShopAngular.Model.AssemblyInfo.cs
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\obj\Debug\netcoreapp3.1\ShopAngular.Model.csproj.CoreCompileInputs.cache
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\obj\Debug\netcoreapp3.1\ShopAngular.Model.dll
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\obj\Debug\netcoreapp3.1\ShopAngular.Model.pdb
+D:\web\Web Asp\ShopAngular\ShopAngular.Model\obj\Debug\netcoreapp3.1\ShopAngular.Model.csproj.AssemblyReference.cache
